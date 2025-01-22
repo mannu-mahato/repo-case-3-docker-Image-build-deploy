@@ -29,3 +29,4 @@ jobs:
     - name: Deploy to Container
       run: |
         docker run -d --name workflow-test-image -p 80:80 mannu121/testrepo:latest
+        docker ps -a
