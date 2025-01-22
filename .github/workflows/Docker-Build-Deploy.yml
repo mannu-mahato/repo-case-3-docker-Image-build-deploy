@@ -1,4 +1,4 @@
-name: Build and Deploy Docker Image-- for case 4
+name: Build and Deploy Docker Image-- for case-4
 on: 
   push:
 jobs:
